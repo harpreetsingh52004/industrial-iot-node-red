@@ -63,22 +63,4 @@ Lab 9 wired everything into a small end-to-end pipeline: a PLC's I/O exposed ove
 
 ---
 
-## Repo contents
-
-```
-.
-├── README.md
-├── flows/                # Node-RED flow JSON exports (per lab)
-├── dashboards/           # Dashboard configuration per lab
-├── mqtt/
-│   ├── topic-taxonomy.md
-│   └── mosquitto-config-sample.conf
-├── modbus/
-│   └── plc-tag-mappings.md
-├── labs/                 # IOT555 lab PDFs (1–9)
-└── docs/
-```
-
----
-
 📫 **Harpreet Singh** — [harpreetsingh.cloud](https://harpreetsingh.cloud) · [GitHub](https://github.com/harpreetsingh52004)
